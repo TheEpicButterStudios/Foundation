@@ -1,5 +1,14 @@
 package us.mcepiccraft.foundation;
 
+
+/**
+ * Foundation.java
+ * 
+ * @author FoundationDevTeam
+ * 
+ * @version 1.0.0
+ *
+ */
 @Plugin(id="Foundation", name="Foundation", version="1.0.0")
 public class Foundation {
 	@SpongeEventHandler
