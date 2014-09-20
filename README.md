@@ -16,7 +16,7 @@ If you'd like to contribute to the project, please read the `CONTRUBUTING.md` fi
 If you are fixing an issue, you can just create a pull request.
 
 #### I found an issue!
-No software is absolutely perfect. If you found a bug or something else, please let us know by creating an issue. You can create an issue report here on GitHub. Please be descriptive as possible, so a developer can fix it and create a pull request to the repository.
+No software is absolutely perfect. If you found a bug or something else, please let us know by creating an issue. You can create an issue report here on GitHub. Please be as descriptive as possible, so a developer can fix the issue and create a pull request.
 
 [Forum thread]: http://forums.spongepowered.org/t/foundation-what-would-you-like-to-see/1525/83
 [Wiki]: https://github.com/FoundationDevTeam/Foundation/wiki
