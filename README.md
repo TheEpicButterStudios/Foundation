@@ -12,7 +12,7 @@ Foundation is a Sponge plugin which establishes a plugin infrastructure. It defi
 Foundation is not a usable plugin by itself. We are creating Foundation-dependent plugins which can add core functionality to your server, like commands for server administration, survival-and creative servers, economy and such.
 
 #### Contributing
-I you'd like to contribute to the project, please read the `CONTRUBUTING.md` file included in the repository. All your contributed code will be automatically licensed under the MIT license.
+If you'd like to contribute to the project, please read the `CONTRUBUTING.md` file included in the repository. All your contributed code will be automatically licensed under the MIT license.
 If you are fixing an issue, you can just create a pull request.
 
 #### I found an issue!
