@@ -6,7 +6,6 @@
     <name>Foundation</name>
     <description>Foundation - Sponge Plugin</description>
     <build>
-        <sourceDirectory>src</sourceDirectory>
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
