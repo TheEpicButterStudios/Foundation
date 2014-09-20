@@ -6,5 +6,5 @@ package com.foundationpowered.foundation.ban;
  */
 public interface BanTarget {
 
-	public String getTargetName();
+	String getTargetName();
 }

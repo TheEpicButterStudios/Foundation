@@ -5,10 +5,10 @@ package com.foundationpowered.foundation.ban;
  */
 public interface IPBanTarget extends BanTarget {
 
-	public String getIP();
+	String getIP();
 
-	public String getLastUsername();
+	String getLastUsername();
 
-	public String getLastUUID();
+	String getLastUUID();
 
 }

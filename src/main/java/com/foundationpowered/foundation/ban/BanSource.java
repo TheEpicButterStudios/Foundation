@@ -6,6 +6,6 @@ package com.foundationpowered.foundation.ban;
  */
 public interface BanSource {
 
-	public String getSourceName();
+	String getSourceName();
 
 }

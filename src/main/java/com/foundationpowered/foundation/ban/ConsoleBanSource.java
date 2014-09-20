@@ -12,6 +12,6 @@ public interface ConsoleBanSource extends BanSource {
 	 * Get the default console logger
 	 * @return  the console logger
 	 */
-	public Logger getConsole();
+	Logger getConsole();
 
 }

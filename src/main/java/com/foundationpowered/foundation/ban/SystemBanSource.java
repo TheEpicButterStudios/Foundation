@@ -9,5 +9,5 @@ import org.spongepowered.api.plugin.Plugin;
  */
 public interface SystemBanSource extends BanSource {
 
-	public Plugin getPlugin();
+	Plugin getPlugin();
 }

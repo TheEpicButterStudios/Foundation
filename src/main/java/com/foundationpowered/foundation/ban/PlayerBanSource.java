@@ -10,11 +10,11 @@ import java.util.UUID;
  */
 public interface PlayerBanSource extends BanSource {
 
-	public UUID getUUID();
+	UUID getUUID();
 
 	/**
 	 * Does no guarantee that the player is online
 	 */
-	public Player getPlayer();
+	Player getPlayer();
 
 }
