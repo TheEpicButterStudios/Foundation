@@ -1,4 +1,4 @@
-package com.foundationpowered.foundation.module;
+package com.foundationpowered.api.module;
 
 import java.io.File;
 

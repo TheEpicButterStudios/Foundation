@@ -1,13 +1,14 @@
-package com.foundationpowered.foundation.ban;
+package com.foundationpowered.api.ban;
 
 import org.spongepowered.api.entity.Player;
 
 import java.util.UUID;
 
 /**
- * An Player that has been targeted by a ban
+ * A PlayerBanSource is the source of a ban that has
+ * been issued by a Player
  */
-public interface PlayerBanTarget {
+public interface PlayerBanSource extends BanSource {
 
 	UUID getUUID();
 

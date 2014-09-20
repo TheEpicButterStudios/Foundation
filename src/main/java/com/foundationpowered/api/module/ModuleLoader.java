@@ -1,4 +1,4 @@
-package com.foundationpowered.foundation.module;
+package com.foundationpowered.api.module;
 
 import java.nio.file.Path;
 
@@ -23,13 +23,21 @@ public interface ModuleLoader {
 
 	/**
 	 * Loads a single module.
-	 * @param path of the module
+	 * @param _path path of the module
 	 */
-	void loadModule(Path path);
+	void loadModule(Path _path);
 
 	/**
 	 * Loads all modules.
 	 */
 	void loadAllModule();
 
+    /**
+     * Sets the path where Foundation
+     * scans for modules.
+     * @param _path path of the modules directory
+     */
+    void setModulesPath(Path _path);
+
+    Path getModulesPath();
 }

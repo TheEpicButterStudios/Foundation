@@ -1,4 +1,4 @@
-package com.foundationpowered.foundation.ban;
+package com.foundationpowered.api.ban;
 
 /**
  * An IP that has been targeted by a ban

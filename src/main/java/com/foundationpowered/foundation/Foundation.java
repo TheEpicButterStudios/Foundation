@@ -25,7 +25,7 @@
 package com.foundationpowered.foundation;
 
 import com.foundationpowered.foundation.logger.DefaultLogger;
-import com.foundationpowered.foundation.logger.Logger;
+import com.foundationpowered.api.logger.Logger;
 import org.spongepowered.api.event.SpongeEventHandler;
 import org.spongepowered.api.event.state.PreInitializationEvent;
 import org.spongepowered.api.event.state.ServerStartingEvent;

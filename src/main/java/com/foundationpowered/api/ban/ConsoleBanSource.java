@@ -1,6 +1,6 @@
-package com.foundationpowered.foundation.ban;
+package com.foundationpowered.api.ban;
 
-import com.foundationpowered.foundation.logger.Logger;
+import com.foundationpowered.api.logger.Logger;
 
 /**
  * A ConsoleBanSource is the source of a ban that has

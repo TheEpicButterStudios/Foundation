@@ -22,7 +22,7 @@
  * SOFTWARE.
  */
 
-package com.foundationpowered.foundation.logger;
+package com.foundationpowered.api.logger;
 
 public interface Logger {
 
